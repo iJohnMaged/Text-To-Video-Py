@@ -56,13 +56,13 @@ Uploading on YouTube, Soon!
 
 
 # TODOs
-* [] Create a pipeline that handles the text processing for the template with many tags.
-* [] Add new video tag (from file) to the script template.
-* [] Add new music tag (from file) to the script template.
-* [] Add tags for special video effects.
-* [] Add multiple keyword for image search, comma separated.
-* [] Add ArgParser to the program instead of using `main.py`.
-* [] Variable display time for images.
-* [] Validation and testing.
-* [] Add other languages support for TTS.
-* [] Explore more TTS options, and machine learning tools that can help with this project.
+- [ ] Create a pipeline that handles the text processing for the template with many tags.
+- [ ] Add new video tag (from file) to the script template.
+- [ ] Add new music tag (from file) to the script template.
+- [ ] Add tags for special video effects.
+- [ ] Add multiple keyword for image search, comma separated.
+- [ ] Add ArgParser to the program instead of using `main.py`.
+- [ ] Variable display time for images.
+- [ ] Validation and testing.
+- [ ] Add other languages support for TTS.
+- [ ] Explore more TTS options, and machine learning tools that can help with this project.
