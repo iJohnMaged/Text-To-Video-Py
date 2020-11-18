@@ -1,0 +1,6 @@
+__pycache__
+tts_output/
+downloads/
+.vscode/
+.idea/
+output/
