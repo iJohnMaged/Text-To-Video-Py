@@ -66,3 +66,6 @@ Uploading on YouTube, Soon!
 - [ ] Validation and testing.
 - [ ] Add other languages support for TTS.
 - [ ] Explore more TTS options, and machine learning tools that can help with this project.
+
+# License
+[MIT](./LICENSE)
