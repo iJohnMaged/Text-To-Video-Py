@@ -11,6 +11,7 @@ This is a little fun side project that I plan to work on in my free time over th
 # Example
 [![Video example](https://img.youtube.com/vi/xBDiMOTY1UI/0.jpg)](https://www.youtube.com/watch?v=xBDiMOTY1UI)
 
+Script template used for this example can be found [**here**](./test_script.txt)
 
 # Current status
 
