@@ -6,8 +6,11 @@ The idea of this project is to be able to _generate_ videos just from text input
 * Videos.
 * Voice over.
 * Music.
----
+
 This is a little fun side project that I plan to work on in my free time over the next few weeks.
+# Example
+[![Video example](https://img.youtube.com/vi/xBDiMOTY1UI/0.jpg)](https://www.youtube.com/watch?v=xBDiMOTY1UI)
+
 
 # Current status
 
@@ -49,10 +52,6 @@ Then you can create a script in `test_script.txt` and run
 # Important Note
 This program uses Google's `Cloud text-to-speech`, so sadly you need to enable their API set up authentication to work and try this program. Check more inforamtion on how to do this [here](https://cloud.google.com/text-to-speech/docs/libraries).
 
-
-
-# Example
-Uploading on YouTube, Soon!
 
 
 # TODOs
